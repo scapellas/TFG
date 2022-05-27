@@ -1,5 +1,5 @@
 # TFG
-Repository for my Bachelor's Thesis, developed at NASA Goddard Space Flight Center, under the supervision of Teresa Nieves-Chinchilla.
+Repository for my Bachelor's Thesis, developed at the Heliophysics Science Division of NASA Goddard Space Flight Center, under the supervision of Teresa Nieves-Chinchilla.
 
 My thesis can be found in "thesis.pdf".
 The results supporting my thesis can be found in "main_notebook", as Python scripts in a Jupyter Notebook.

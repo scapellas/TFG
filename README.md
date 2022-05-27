@@ -1,4 +1,4 @@
-# Bachelor's Thesis: Instabilities in Heliospheric Magnetic Flux Ropes
+# Instabilities in Heliospheric Magnetic Flux Ropes
 Repository for my Bachelor's Thesis, developed at the Heliophysics Science Division of NASA Goddard Space Flight Center, under the supervision of Teresa Nieves-Chinchilla.
 
 My thesis can be found in "thesis.pdf".

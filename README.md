@@ -1,8 +1,8 @@
 # Instabilities in Heliospheric Magnetic Flux Ropes
-Repository for my Bachelor's Thesis, developed at the Heliophysics Science Division of NASA Goddard Space Flight Center, under the supervision of Teresa Nieves-Chinchilla.
+Welcome to the repository for my Bachelor's Thesis, developed at the Heliophysics Science Division of NASA Goddard Space Flight Center, under the supervision of Teresa Nieves-Chinchilla.
 
-My thesis can be found in "thesis.pdf".
-The results supporting my thesis can be found in "main_notebook", as Python scripts in a Jupyter Notebook.
+The thesis full text can be downloaded from "thesis.pdf".
+The programs supporting the plots in the thesis can be found in "main_notebook", in the form of Python scripts in a Jupyter Notebook.
 The functions necessary to evaluate the dispersion relation have been adapted from scripts by Marta Florido Llinàs, which have helped me a lot.
 The other files are auxiliary.
 
